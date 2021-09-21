@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         delete.setOnClickListener(this);
         read.setOnClickListener(this);
     }
+    //hemlo//
 
     @Override
     public void onClick(View v) {
