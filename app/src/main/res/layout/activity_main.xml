@@ -14,7 +14,7 @@
         android:layout_height="wrap_content">
         <Button
             android:id="@+id/create"
-            android:text="CREATE"
+            android:text="LINTANG ELEK"
             style="@style/Widget.AppCompat.Button.Colored"
             android:layout_width="match_parent"
             android:layout_weight="1"
